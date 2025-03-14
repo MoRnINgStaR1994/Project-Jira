@@ -125,5 +125,3 @@ project-jira/
 ## Contact
 For support or inquiries, contact [datokamadadze12@gmail.com](mailto:your-email@example.com)
 
-# Project-Jira# Project-Jira
-# Project-Jira
