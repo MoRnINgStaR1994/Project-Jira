@@ -1,6 +1,6 @@
 import psycopg2
-import psycopg2.extras
 from sqlalchemy.dialects.postgresql import psycopg2
+import psycopg2.extras
 from .conn.get_connection import get_connection
 from ..models.Ticket import Ticket
 
